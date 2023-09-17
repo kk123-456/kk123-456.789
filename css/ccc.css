@@ -1,0 +1,13 @@
+#two{
+	width: 800px;
+	height: 600px;
+	background-color: #4DF6A7;
+	margin: auto;
+}
+#one{
+	margin: auto;
+	width: 200px;
+	height: 600px;
+	background-color: #00B0AD;
+	float: left;
+}
